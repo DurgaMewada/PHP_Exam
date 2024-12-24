@@ -32,3 +32,10 @@ https://drive.google.com/file/d/1Id82k5QSuL_Qxm3Yc-WD4NpSbsskMosZ/view?usp=shari
 | order_date     | DATE         | Date of Order                                 |
 | status         | TEXT         | Status of Order                               |
 
+
+### HTTP Methods Used:
+- **POST**: For inserting new data.
+- **GET**: For retrieving data.
+- **PUT**: For updating existing data.
+- **DELETE**: For deleting data.
+
